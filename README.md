@@ -2,7 +2,7 @@
 Création d'un espace membre et d'un chat en php
 ## Espace membre
 * Inscription
-* Connection + connection auto 
+* Connexion + connexion auto 
 * Cryptage mot de passe
 * Bdd mysql
 * Déconnection
